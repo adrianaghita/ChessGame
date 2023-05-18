@@ -1,5 +1,6 @@
 import ChessBoard from './components/ChessBoard'
 import Header from './components/Header';
+import './App.css'
 
 
 
